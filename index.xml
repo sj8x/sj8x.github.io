@@ -15,5 +15,19 @@
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;my first paper!&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;I delete all property and see can it can be correct&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3dfa</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;p&gt;the next time&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
